@@ -29,7 +29,7 @@ src/
 2. Pastikan sudah terinstal **Java 8+**.
 3. Compile semua file ke folder `out/`:
    ```bash
-   mkdir -p out
+   mkdir out
    javac -d out src/util/*.java src/*.java
    ```
 4. Jalankan program:
